@@ -1,0 +1,11 @@
+#SunuFramework
+
+/config/app.config.ini
+/config/db.config.ini
+/logs
+/vendor
+/install/.htaccess
+/.htaccess
+/.idea
+/composer.lock
+/composer.phar

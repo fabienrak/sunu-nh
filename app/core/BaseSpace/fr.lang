@@ -1,0 +1,10 @@
+[Lang]
+;SunuFramework
+confirmTitre = "Confirmation"
+confirmBtnOk = "Oui"
+confirmBtnKo = "Non"
+confirmMessage = "Etes vous sur de vouloir effectuer cette action ?"
+actionsuccess = "Action éffectuée avec succes"
+actionechec = "Echec d'éxecution de l'action"
+accesdenided = "Accés refusé !"
+accesdenidedtext = "Vous n'étes pas autorisé à executer cette action !"

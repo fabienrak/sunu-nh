@@ -1,0 +1,26 @@
+<?php
+
+namespace app\models\_espace_;
+
+use app\core\BaseModel;
+
+class HomeModel extends BaseModel
+{
+
+    /**
+     * HomeModel constructor.
+     */
+    public function __construct()
+    {
+        parent::__construct();
+    }
+
+    /**
+     * HomeModel destruct.
+     */
+    public function __destruct()
+    {
+        parent::__destruct();
+    }
+
+}

@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Created by PhpStorm.
+ * User: seeynii.faay
+ * Date: 11/21/19
+ * Time: 10:10 AM
+ */
+
+require_once 'vendor/autoload.php';
+if($argc > 1) \app\core\Shell::domake($argv);
